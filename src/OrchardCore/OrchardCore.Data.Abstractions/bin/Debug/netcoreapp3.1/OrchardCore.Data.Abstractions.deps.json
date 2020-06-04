@@ -1,0 +1,150 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OrchardCore.Data.Abstractions/1.0.0-rc1": {
+        "dependencies": {
+          "YesSql.Core": "2.0.0-beta-1481"
+        },
+        "runtime": {
+          "OrchardCore.Data.Abstractions.dll": {}
+        }
+      },
+      "Dapper.StrongName/2.0.35": {
+        "dependencies": {
+          "System.Reflection.Emit.Lightweight": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Dapper.StrongName.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.35.21366"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection/3.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.0.0"
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/3.0.0": {},
+      "Microsoft.Extensions.Logging.Abstractions/2.2.0": {},
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "System.Collections.Immutable/1.7.1": {
+        "runtime": {
+          "lib/netstandard2.0/System.Collections.Immutable.dll": {
+            "assemblyVersion": "1.2.5.0",
+            "fileVersion": "4.700.20.21406"
+          }
+        }
+      },
+      "System.Reflection.Emit.Lightweight/4.7.0": {},
+      "YesSql.Abstractions/2.0.0-beta-1481": {
+        "dependencies": {
+          "Microsoft.Extensions.Logging.Abstractions": "2.2.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/YesSql.Abstractions.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "YesSql.Core/2.0.0-beta-1481": {
+        "dependencies": {
+          "Dapper.StrongName": "2.0.35",
+          "Microsoft.Extensions.DependencyInjection": "3.0.0",
+          "Newtonsoft.Json": "12.0.3",
+          "System.Collections.Immutable": "1.7.1",
+          "YesSql.Abstractions": "2.0.0-beta-1481"
+        },
+        "runtime": {
+          "lib/netstandard2.1/YesSql.Core.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OrchardCore.Data.Abstractions/1.0.0-rc1": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dapper.StrongName/2.0.35": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VKLIBnmegSJXHIOgoxXh7G5ywv0/kvc4A2LZKLtTgwZLVGrqmmhOHnPh/d90t962grCqs4ybe+5bxjBsPdUdxw==",
+      "path": "dapper.strongname/2.0.35",
+      "hashPath": "dapper.strongname.2.0.35.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yDsuNA/BT4j9qrcRs0NUNHQAJfywFWX18ZZ+shxXJL+/nIfz3vhuRTfnYgvFeQlNBlgmgdSjOcs4ajgoS6Q/Ng==",
+      "path": "microsoft.extensions.dependencyinjection/3.0.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.3.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ofQRroDlzJ0xKOtzNuaVt6QKNImFkhkG0lIMpGl7PtXnIf5SuLWBeiQZAP8DNSxDBJJdcsPkiJiMYK2WA5H8dQ==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/3.0.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Logging.Abstractions/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-B2WqEox8o+4KUOpL7rZPyh6qYjik8tHi2tN8Z9jZkHzED8ElYgZa/h6K+xliB435SqUcWT290Fr2aa8BtZjn8A==",
+      "path": "microsoft.extensions.logging.abstractions/2.2.0",
+      "hashPath": "microsoft.extensions.logging.abstractions.2.2.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "System.Collections.Immutable/1.7.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-B43Zsz5EfMwyEbnObwRxW5u85fzJma3lrDeGcSAV1qkhSRTNY5uXAByTn9h9ddNdhM+4/YoLc/CI43umjwIl9Q==",
+      "path": "system.collections.immutable/1.7.1",
+      "hashPath": "system.collections.immutable.1.7.1.nupkg.sha512"
+    },
+    "System.Reflection.Emit.Lightweight/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-a4OLB4IITxAXJeV74MDx49Oq2+PsF6Sml54XAFv+2RyWwtDBcabzoxiiJRhdhx+gaohLh4hEGCLQyBozXoQPqA==",
+      "path": "system.reflection.emit.lightweight/4.7.0",
+      "hashPath": "system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+    },
+    "YesSql.Abstractions/2.0.0-beta-1481": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3yTU13mU1AG7267JSPQyEubmMqMsn2tkOiFsAIe/WU82IFLzKsCseSEAHXzOufoFImmCukwPZWnGCagbuxChfg==",
+      "path": "yessql.abstractions/2.0.0-beta-1481",
+      "hashPath": "yessql.abstractions.2.0.0-beta-1481.nupkg.sha512"
+    },
+    "YesSql.Core/2.0.0-beta-1481": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RQkljIQALxPGJl4/gTfuTKuHP1lzJxB/VcrlI8gPB/ipOlbZk26fPKFKa+4s3tcuSbIdm0UCJu9ivT6rhcI5sQ==",
+      "path": "yessql.core/2.0.0-beta-1481",
+      "hashPath": "yessql.core.2.0.0-beta-1481.nupkg.sha512"
+    }
+  }
+}

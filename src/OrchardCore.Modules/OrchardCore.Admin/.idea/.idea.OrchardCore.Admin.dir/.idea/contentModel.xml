@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore.Module.Targets\Package.Build.props" t="Include" />
+    <e p="C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore.Modules\OrchardCore.Admin" t="IncludeRecursive">
+      <e p="Admin" t="Include">
+        <e p="AdminSettings.cs" t="Include" />
+      </e>
+      <e p="AdminAreaControllerRouteMapper.cs" t="Include" />
+      <e p="AdminFilter.cs" t="Include" />
+      <e p="AdminMenu.cs" t="Include" />
+      <e p="AdminMenuFilter.cs" t="Include" />
+      <e p="AdminPageRouteModelConvention.cs" t="Include" />
+      <e p="AdminPageRouteModelProvider.cs" t="Include" />
+      <e p="AdminThemeSelector.cs" t="Include" />
+      <e p="AdminThemeService.cs" t="Include" />
+      <e p="AdminZoneFilter.cs" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Controllers" t="Include">
+        <e p="AdminController.cs" t="Include" />
+      </e>
+      <e p="Drivers" t="Include">
+        <e p="AdminSiteSettingsDisplayDriver.cs" t="Include" />
+      </e>
+      <e p="Manifest.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="OrchardCore.Admin.AssemblyInfo.cs" t="Include" />
+            <e p="OrchardCore.Admin.RazorAssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="OrchardCore.Admin.csproj" t="IncludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Permissions.cs" t="Include" />
+      <e p="PermissionsAdminSettings.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="Startup.cs" t="Include" />
+      <e p="ViewModels" t="Include">
+        <e p="AdminSettingsViewModel.cs" t="Include" />
+      </e>
+      <e p="Views" t="Include">
+        <e p="_ViewImports.cshtml" t="Include" />
+        <e p="Admin" t="Include">
+          <e p="Index.cshtml" t="Include" />
+        </e>
+        <e p="AdminDashboard.cshtml" t="Include" />
+        <e p="AdminSettings.Edit.cshtml" t="Include" />
+        <e p="NavigationItemText-admin.Id.cshtml" t="Include" />
+      </e>
+    </e>
+    <e p="C:\Users\InonBarnea\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\InonBarnea\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_.19.02" t="ExcludeRecursive" />
+  </component>
+</project>

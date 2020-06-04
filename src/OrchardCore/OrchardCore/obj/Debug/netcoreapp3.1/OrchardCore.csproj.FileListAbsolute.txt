@@ -1,0 +1,10 @@
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore\bin\Debug\netcoreapp3.1\OrchardCore.deps.json
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore\bin\Debug\netcoreapp3.1\OrchardCore.dll
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore\bin\Debug\netcoreapp3.1\OrchardCore.Abstractions.dll
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore\bin\Debug\netcoreapp3.1\OrchardCore.Localization.Abstractions.dll
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore\obj\Debug\netcoreapp3.1\OrchardCore.csprojAssemblyReference.cache
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore\obj\Debug\netcoreapp3.1\OrchardCore.csproj.CoreCompileInputs.cache
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore\obj\Debug\netcoreapp3.1\OrchardCore.AssemblyInfoInputs.cache
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore\obj\Debug\netcoreapp3.1\OrchardCore.AssemblyInfo.cs
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore\obj\Debug\netcoreapp3.1\OrchardCore.csproj.CopyComplete
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore\obj\Debug\netcoreapp3.1\OrchardCore.dll

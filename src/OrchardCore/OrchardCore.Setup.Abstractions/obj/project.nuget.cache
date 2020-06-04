@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "MzIQ1jUfbr+GLSC3RRiX6bfvwq57AmqZKfCcuDvsdZibliPkJweqU2r/M6Dbj/xAye1jTZJcvfztpAOs4MX26w==",
+  "success": true,
+  "projectFilePath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Setup.Abstractions\\OrchardCore.Setup.Abstractions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\InonBarnea\\.nuget\\packages\\dapper.strongname\\2.0.35\\dapper.strongname.2.0.35.nupkg.sha512",
+    "C:\\Users\\InonBarnea\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.0.0\\microsoft.extensions.dependencyinjection.3.0.0.nupkg.sha512",
+    "C:\\Users\\InonBarnea\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\InonBarnea\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.2.0\\microsoft.extensions.logging.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\InonBarnea\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\InonBarnea\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",
+    "C:\\Users\\InonBarnea\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512",
+    "C:\\Users\\InonBarnea\\.nuget\\packages\\yessql.abstractions\\2.0.0-beta-1481\\yessql.abstractions.2.0.0-beta-1481.nupkg.sha512",
+    "C:\\Users\\InonBarnea\\.nuget\\packages\\yessql.core\\2.0.0-beta-1481\\yessql.core.2.0.0-beta-1481.nupkg.sha512"
+  ],
+  "logs": []
+}

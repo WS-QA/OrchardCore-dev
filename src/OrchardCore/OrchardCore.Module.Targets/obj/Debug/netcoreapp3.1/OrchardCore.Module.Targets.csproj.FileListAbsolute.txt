@@ -1,0 +1,9 @@
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore.Module.Targets\bin\Debug\netcoreapp3.1\OrchardCore.Module.Targets.deps.json
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore.Module.Targets\bin\Debug\netcoreapp3.1\OrchardCore.Module.Targets.dll
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore.Module.Targets\bin\Debug\netcoreapp3.1\OrchardCore.Abstractions.dll
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore.Module.Targets\obj\Debug\netcoreapp3.1\OrchardCore.Module.Targets.csprojAssemblyReference.cache
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore.Module.Targets\obj\Debug\netcoreapp3.1\OrchardCore.Module.Targets.csproj.CoreCompileInputs.cache
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore.Module.Targets\obj\Debug\netcoreapp3.1\OrchardCore.Module.Targets.AssemblyInfoInputs.cache
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore.Module.Targets\obj\Debug\netcoreapp3.1\OrchardCore.Module.Targets.AssemblyInfo.cs
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore.Module.Targets\obj\Debug\netcoreapp3.1\OrchardCore.Module.Targets.csproj.CopyComplete
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore.Module.Targets\obj\Debug\netcoreapp3.1\OrchardCore.Module.Targets.dll

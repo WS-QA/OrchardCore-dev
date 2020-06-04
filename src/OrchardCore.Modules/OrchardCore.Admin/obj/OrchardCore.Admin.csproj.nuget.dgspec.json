@@ -1,0 +1,1321 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore.Modules\\OrchardCore.Admin\\OrchardCore.Admin.csproj": {}
+  },
+  "projects": {
+    "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore.Modules\\OrchardCore.Admin\\OrchardCore.Admin.csproj": {
+      "version": "1.0.0-rc1",
+      "restore": {
+        "projectUniqueName": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore.Modules\\OrchardCore.Admin\\OrchardCore.Admin.csproj",
+        "projectName": "OrchardCore.Admin",
+        "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore.Modules\\OrchardCore.Admin\\OrchardCore.Admin.csproj",
+        "packagesPath": "C:\\Users\\InonBarnea\\.nuget\\packages\\",
+        "outputPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore.Modules\\OrchardCore.Admin\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\NuGet.Config",
+          "C:\\Users\\InonBarnea\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore.Modules\\OrchardCore.Settings\\OrchardCore.Settings.csproj": {
+                "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore.Modules\\OrchardCore.Settings\\OrchardCore.Settings.csproj"
+              },
+              "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Admin.Abstractions\\OrchardCore.Admin.Abstractions.csproj": {
+                "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Admin.Abstractions\\OrchardCore.Admin.Abstractions.csproj"
+              },
+              "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Data.Abstractions\\OrchardCore.Data.Abstractions.csproj": {
+                "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Data.Abstractions\\OrchardCore.Data.Abstractions.csproj"
+              },
+              "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.DisplayManagement\\OrchardCore.DisplayManagement.csproj": {
+                "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.DisplayManagement\\OrchardCore.DisplayManagement.csproj"
+              },
+              "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Module.Targets\\OrchardCore.Module.Targets.csproj": {
+                "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Module.Targets\\OrchardCore.Module.Targets.csproj"
+              },
+              "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Navigation.Core\\OrchardCore.Navigation.Core.csproj": {
+                "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Navigation.Core\\OrchardCore.Navigation.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "SharpCompress": {
+              "target": "Package",
+              "version": "[0.20.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore.Modules\\OrchardCore.Settings\\OrchardCore.Settings.csproj": {
+      "version": "1.0.0-rc1",
+      "restore": {
+        "projectUniqueName": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore.Modules\\OrchardCore.Settings\\OrchardCore.Settings.csproj",
+        "projectName": "OrchardCore.Settings",
+        "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore.Modules\\OrchardCore.Settings\\OrchardCore.Settings.csproj",
+        "packagesPath": "C:\\Users\\InonBarnea\\.nuget\\packages\\",
+        "outputPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore.Modules\\OrchardCore.Settings\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\NuGet.Config",
+          "C:\\Users\\InonBarnea\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Admin.Abstractions\\OrchardCore.Admin.Abstractions.csproj": {
+                "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Admin.Abstractions\\OrchardCore.Admin.Abstractions.csproj"
+              },
+              "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Data.Abstractions\\OrchardCore.Data.Abstractions.csproj": {
+                "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Data.Abstractions\\OrchardCore.Data.Abstractions.csproj"
+              },
+              "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Deployment.Abstractions\\OrchardCore.Deployment.Abstractions.csproj": {
+                "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Deployment.Abstractions\\OrchardCore.Deployment.Abstractions.csproj"
+              },
+              "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.DisplayManagement\\OrchardCore.DisplayManagement.csproj": {
+                "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.DisplayManagement\\OrchardCore.DisplayManagement.csproj"
+              },
+              "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Liquid.Abstractions\\OrchardCore.Liquid.Abstractions.csproj": {
+                "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Liquid.Abstractions\\OrchardCore.Liquid.Abstractions.csproj"
+              },
+              "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Module.Targets\\OrchardCore.Module.Targets.csproj": {
+                "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Module.Targets\\OrchardCore.Module.Targets.csproj"
+              },
+              "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Navigation.Core\\OrchardCore.Navigation.Core.csproj": {
+                "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Navigation.Core\\OrchardCore.Navigation.Core.csproj"
+              },
+              "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Recipes.Abstractions\\OrchardCore.Recipes.Abstractions.csproj": {
+                "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Recipes.Abstractions\\OrchardCore.Recipes.Abstractions.csproj"
+              },
+              "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Setup.Abstractions\\OrchardCore.Setup.Abstractions.csproj": {
+                "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Setup.Abstractions\\OrchardCore.Setup.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Abstractions\\OrchardCore.Abstractions.csproj": {
+      "version": "1.0.0-rc1",
+      "restore": {
+        "projectUniqueName": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Abstractions\\OrchardCore.Abstractions.csproj",
+        "projectName": "OrchardCore.Abstractions",
+        "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Abstractions\\OrchardCore.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\InonBarnea\\.nuget\\packages\\",
+        "outputPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\NuGet.Config",
+          "C:\\Users\\InonBarnea\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Admin.Abstractions\\OrchardCore.Admin.Abstractions.csproj": {
+      "version": "1.0.0-rc1",
+      "restore": {
+        "projectUniqueName": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Admin.Abstractions\\OrchardCore.Admin.Abstractions.csproj",
+        "projectName": "OrchardCore.Admin.Abstractions",
+        "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Admin.Abstractions\\OrchardCore.Admin.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\InonBarnea\\.nuget\\packages\\",
+        "outputPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Admin.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\NuGet.Config",
+          "C:\\Users\\InonBarnea\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Abstractions\\OrchardCore.Abstractions.csproj": {
+                "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Abstractions\\OrchardCore.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Data.Abstractions\\OrchardCore.Data.Abstractions.csproj": {
+      "version": "1.0.0-rc1",
+      "restore": {
+        "projectUniqueName": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Data.Abstractions\\OrchardCore.Data.Abstractions.csproj",
+        "projectName": "OrchardCore.Data.Abstractions",
+        "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Data.Abstractions\\OrchardCore.Data.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\InonBarnea\\.nuget\\packages\\",
+        "outputPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Data.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\NuGet.Config",
+          "C:\\Users\\InonBarnea\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "YesSql.Core": {
+              "target": "Package",
+              "version": "[2.0.0-beta-1481, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Data\\OrchardCore.Data.csproj": {
+      "version": "1.0.0-rc1",
+      "restore": {
+        "projectUniqueName": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Data\\OrchardCore.Data.csproj",
+        "projectName": "OrchardCore.Data",
+        "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Data\\OrchardCore.Data.csproj",
+        "packagesPath": "C:\\Users\\InonBarnea\\.nuget\\packages\\",
+        "outputPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\NuGet.Config",
+          "C:\\Users\\InonBarnea\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Abstractions\\OrchardCore.Abstractions.csproj": {
+                "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Abstractions\\OrchardCore.Abstractions.csproj"
+              },
+              "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Data.Abstractions\\OrchardCore.Data.Abstractions.csproj": {
+                "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Data.Abstractions\\OrchardCore.Data.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "YesSql.Provider.MySql": {
+              "target": "Package",
+              "version": "[1.0.0-beta-1481, )"
+            },
+            "YesSql.Provider.PostgreSql": {
+              "target": "Package",
+              "version": "[1.0.0-beta-1481, )"
+            },
+            "YesSql.Provider.SqLite": {
+              "target": "Package",
+              "version": "[1.0.0-beta-1481, )"
+            },
+            "YesSql.Provider.SqlServer": {
+              "target": "Package",
+              "version": "[1.0.0-beta-1481, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Deployment.Abstractions\\OrchardCore.Deployment.Abstractions.csproj": {
+      "version": "1.0.0-rc1",
+      "restore": {
+        "projectUniqueName": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Deployment.Abstractions\\OrchardCore.Deployment.Abstractions.csproj",
+        "projectName": "OrchardCore.Deployment.Abstractions",
+        "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Deployment.Abstractions\\OrchardCore.Deployment.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\InonBarnea\\.nuget\\packages\\",
+        "outputPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Deployment.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\NuGet.Config",
+          "C:\\Users\\InonBarnea\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.DisplayManagement\\OrchardCore.DisplayManagement.csproj": {
+                "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.DisplayManagement\\OrchardCore.DisplayManagement.csproj"
+              },
+              "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Recipes.Abstractions\\OrchardCore.Recipes.Abstractions.csproj": {
+                "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Recipes.Abstractions\\OrchardCore.Recipes.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.DisplayManagement.Abstractions\\OrchardCore.DisplayManagement.Abstractions.csproj": {
+      "version": "1.0.0-rc1",
+      "restore": {
+        "projectUniqueName": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.DisplayManagement.Abstractions\\OrchardCore.DisplayManagement.Abstractions.csproj",
+        "projectName": "OrchardCore.DisplayManagement.Abstractions",
+        "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.DisplayManagement.Abstractions\\OrchardCore.DisplayManagement.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\InonBarnea\\.nuget\\packages\\",
+        "outputPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.DisplayManagement.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\NuGet.Config",
+          "C:\\Users\\InonBarnea\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.DisplayManagement\\OrchardCore.DisplayManagement.csproj": {
+      "version": "1.0.0-rc1",
+      "restore": {
+        "projectUniqueName": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.DisplayManagement\\OrchardCore.DisplayManagement.csproj",
+        "projectName": "OrchardCore.DisplayManagement",
+        "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.DisplayManagement\\OrchardCore.DisplayManagement.csproj",
+        "packagesPath": "C:\\Users\\InonBarnea\\.nuget\\packages\\",
+        "outputPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.DisplayManagement\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\NuGet.Config",
+          "C:\\Users\\InonBarnea\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.DisplayManagement.Abstractions\\OrchardCore.DisplayManagement.Abstractions.csproj": {
+                "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.DisplayManagement.Abstractions\\OrchardCore.DisplayManagement.Abstractions.csproj"
+              },
+              "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Infrastructure.Abstractions\\OrchardCore.Infrastructure.Abstractions.csproj": {
+                "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Infrastructure.Abstractions\\OrchardCore.Infrastructure.Abstractions.csproj"
+              },
+              "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Liquid.Abstractions\\OrchardCore.Liquid.Abstractions.csproj": {
+                "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Liquid.Abstractions\\OrchardCore.Liquid.Abstractions.csproj"
+              },
+              "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Localization.Abstractions\\OrchardCore.Localization.Abstractions.csproj": {
+                "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Localization.Abstractions\\OrchardCore.Localization.Abstractions.csproj"
+              },
+              "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Mvc.Core\\OrchardCore.Mvc.Core.csproj": {
+                "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Mvc.Core\\OrchardCore.Mvc.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Castle.Core": {
+              "target": "Package",
+              "version": "[4.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Infrastructure.Abstractions\\OrchardCore.Infrastructure.Abstractions.csproj": {
+      "version": "1.0.0-rc1",
+      "restore": {
+        "projectUniqueName": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Infrastructure.Abstractions\\OrchardCore.Infrastructure.Abstractions.csproj",
+        "projectName": "OrchardCore.Infrastructure.Abstractions",
+        "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Infrastructure.Abstractions\\OrchardCore.Infrastructure.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\InonBarnea\\.nuget\\packages\\",
+        "outputPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Infrastructure.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\NuGet.Config",
+          "C:\\Users\\InonBarnea\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Abstractions\\OrchardCore.Abstractions.csproj": {
+                "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Abstractions\\OrchardCore.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Infrastructure\\OrchardCore.Infrastructure.csproj": {
+      "version": "1.0.0-rc1",
+      "restore": {
+        "projectUniqueName": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Infrastructure\\OrchardCore.Infrastructure.csproj",
+        "projectName": "OrchardCore.Infrastructure",
+        "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Infrastructure\\OrchardCore.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\InonBarnea\\.nuget\\packages\\",
+        "outputPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\NuGet.Config",
+          "C:\\Users\\InonBarnea\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Data\\OrchardCore.Data.csproj": {
+                "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Data\\OrchardCore.Data.csproj"
+              },
+              "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Infrastructure.Abstractions\\OrchardCore.Infrastructure.Abstractions.csproj": {
+                "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Infrastructure.Abstractions\\OrchardCore.Infrastructure.Abstractions.csproj"
+              },
+              "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore\\OrchardCore.csproj": {
+                "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore\\OrchardCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "HtmlSanitizer": {
+              "target": "Package",
+              "version": "[5.0.319, )"
+            },
+            "MessagePack": {
+              "target": "Package",
+              "version": "[2.1.115, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[2.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Liquid.Abstractions\\OrchardCore.Liquid.Abstractions.csproj": {
+      "version": "1.0.0-rc1",
+      "restore": {
+        "projectUniqueName": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Liquid.Abstractions\\OrchardCore.Liquid.Abstractions.csproj",
+        "projectName": "OrchardCore.Liquid.Abstractions",
+        "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Liquid.Abstractions\\OrchardCore.Liquid.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\InonBarnea\\.nuget\\packages\\",
+        "outputPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Liquid.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\NuGet.Config",
+          "C:\\Users\\InonBarnea\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Fluid.Core": {
+              "target": "Package",
+              "version": "[1.0.0-beta-9651, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Localization.Abstractions\\OrchardCore.Localization.Abstractions.csproj": {
+      "version": "1.0.0-rc1",
+      "restore": {
+        "projectUniqueName": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Localization.Abstractions\\OrchardCore.Localization.Abstractions.csproj",
+        "projectName": "OrchardCore.Localization.Abstractions",
+        "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Localization.Abstractions\\OrchardCore.Localization.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\InonBarnea\\.nuget\\packages\\",
+        "outputPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Localization.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\NuGet.Config",
+          "C:\\Users\\InonBarnea\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Module.Targets\\OrchardCore.Module.Targets.csproj": {
+      "version": "1.0.0-rc1",
+      "restore": {
+        "projectUniqueName": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Module.Targets\\OrchardCore.Module.Targets.csproj",
+        "projectName": "OrchardCore.Module.Targets",
+        "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Module.Targets\\OrchardCore.Module.Targets.csproj",
+        "packagesPath": "C:\\Users\\InonBarnea\\.nuget\\packages\\",
+        "outputPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Module.Targets\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\NuGet.Config",
+          "C:\\Users\\InonBarnea\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Abstractions\\OrchardCore.Abstractions.csproj": {
+                "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Abstractions\\OrchardCore.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Mvc.Core\\OrchardCore.Mvc.Core.csproj": {
+      "version": "1.0.0-rc1",
+      "restore": {
+        "projectUniqueName": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Mvc.Core\\OrchardCore.Mvc.Core.csproj",
+        "projectName": "OrchardCore.Mvc.Core",
+        "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Mvc.Core\\OrchardCore.Mvc.Core.csproj",
+        "packagesPath": "C:\\Users\\InonBarnea\\.nuget\\packages\\",
+        "outputPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Mvc.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\NuGet.Config",
+          "C:\\Users\\InonBarnea\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Abstractions\\OrchardCore.Abstractions.csproj": {
+                "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Abstractions\\OrchardCore.Abstractions.csproj"
+              },
+              "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.DisplayManagement.Abstractions\\OrchardCore.DisplayManagement.Abstractions.csproj": {
+                "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.DisplayManagement.Abstractions\\OrchardCore.DisplayManagement.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "include": "Runtime, Compile, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Navigation.Core\\OrchardCore.Navigation.Core.csproj": {
+      "version": "1.0.0-rc1",
+      "restore": {
+        "projectUniqueName": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Navigation.Core\\OrchardCore.Navigation.Core.csproj",
+        "projectName": "OrchardCore.Navigation.Core",
+        "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Navigation.Core\\OrchardCore.Navigation.Core.csproj",
+        "packagesPath": "C:\\Users\\InonBarnea\\.nuget\\packages\\",
+        "outputPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Navigation.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\NuGet.Config",
+          "C:\\Users\\InonBarnea\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Infrastructure\\OrchardCore.Infrastructure.csproj": {
+                "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Infrastructure\\OrchardCore.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Recipes.Abstractions\\OrchardCore.Recipes.Abstractions.csproj": {
+      "version": "1.0.0-rc1",
+      "restore": {
+        "projectUniqueName": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Recipes.Abstractions\\OrchardCore.Recipes.Abstractions.csproj",
+        "projectName": "OrchardCore.Recipes.Abstractions",
+        "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Recipes.Abstractions\\OrchardCore.Recipes.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\InonBarnea\\.nuget\\packages\\",
+        "outputPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Recipes.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\NuGet.Config",
+          "C:\\Users\\InonBarnea\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Data.Abstractions\\OrchardCore.Data.Abstractions.csproj": {
+                "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Data.Abstractions\\OrchardCore.Data.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Setup.Abstractions\\OrchardCore.Setup.Abstractions.csproj": {
+      "version": "1.0.0-rc1",
+      "restore": {
+        "projectUniqueName": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Setup.Abstractions\\OrchardCore.Setup.Abstractions.csproj",
+        "projectName": "OrchardCore.Setup.Abstractions",
+        "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Setup.Abstractions\\OrchardCore.Setup.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\InonBarnea\\.nuget\\packages\\",
+        "outputPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Setup.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\NuGet.Config",
+          "C:\\Users\\InonBarnea\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Abstractions\\OrchardCore.Abstractions.csproj": {
+                "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Abstractions\\OrchardCore.Abstractions.csproj"
+              },
+              "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Recipes.Abstractions\\OrchardCore.Recipes.Abstractions.csproj": {
+                "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Recipes.Abstractions\\OrchardCore.Recipes.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore\\OrchardCore.csproj": {
+      "version": "1.0.0-rc1",
+      "restore": {
+        "projectUniqueName": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore\\OrchardCore.csproj",
+        "projectName": "OrchardCore",
+        "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore\\OrchardCore.csproj",
+        "packagesPath": "C:\\Users\\InonBarnea\\.nuget\\packages\\",
+        "outputPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\NuGet.Config",
+          "C:\\Users\\InonBarnea\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Abstractions\\OrchardCore.Abstractions.csproj": {
+                "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Abstractions\\OrchardCore.Abstractions.csproj"
+              },
+              "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Localization.Abstractions\\OrchardCore.Localization.Abstractions.csproj": {
+                "projectPath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Localization.Abstractions\\OrchardCore.Localization.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "NodaTime": {
+              "target": "Package",
+              "version": "[2.4.8, )"
+            },
+            "ncrontab": {
+              "target": "Package",
+              "version": "[3.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

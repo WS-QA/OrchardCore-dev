@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k9mqw5aEaNMI5Z4X5hiKuL4/z+PM+/LSXIPCdg8OsvY2GJFnrMf08w1JmpsafzcBMpMUrnHKkpd5/EMZVkM0bg==",
+  "success": true,
+  "projectFilePath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore.Admin.Abstractions\\OrchardCore.Admin.Abstractions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\InonBarnea\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

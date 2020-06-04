@@ -1,0 +1,15 @@
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore.Navigation.Core\bin\Debug\netcoreapp3.1\OrchardCore.Navigation.Core.deps.json
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore.Navigation.Core\bin\Debug\netcoreapp3.1\OrchardCore.Navigation.Core.dll
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore.Navigation.Core\bin\Debug\netcoreapp3.1\OrchardCore.Abstractions.dll
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore.Navigation.Core\bin\Debug\netcoreapp3.1\OrchardCore.Data.Abstractions.dll
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore.Navigation.Core\bin\Debug\netcoreapp3.1\OrchardCore.Data.dll
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore.Navigation.Core\bin\Debug\netcoreapp3.1\OrchardCore.dll
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore.Navigation.Core\bin\Debug\netcoreapp3.1\OrchardCore.Infrastructure.Abstractions.dll
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore.Navigation.Core\bin\Debug\netcoreapp3.1\OrchardCore.Infrastructure.dll
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore.Navigation.Core\bin\Debug\netcoreapp3.1\OrchardCore.Localization.Abstractions.dll
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore.Navigation.Core\obj\Debug\netcoreapp3.1\OrchardCore.Navigation.Core.csprojAssemblyReference.cache
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore.Navigation.Core\obj\Debug\netcoreapp3.1\OrchardCore.Navigation.Core.csproj.CoreCompileInputs.cache
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore.Navigation.Core\obj\Debug\netcoreapp3.1\OrchardCore.Navigation.Core.AssemblyInfoInputs.cache
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore.Navigation.Core\obj\Debug\netcoreapp3.1\OrchardCore.Navigation.Core.AssemblyInfo.cs
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore.Navigation.Core\obj\Debug\netcoreapp3.1\OrchardCore.Navigation.Core.csproj.CopyComplete
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore.Navigation.Core\obj\Debug\netcoreapp3.1\OrchardCore.Navigation.Core.dll

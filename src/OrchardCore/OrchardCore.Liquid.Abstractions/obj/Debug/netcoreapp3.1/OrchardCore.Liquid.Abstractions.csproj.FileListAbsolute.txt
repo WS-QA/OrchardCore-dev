@@ -1,0 +1,7 @@
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore.Liquid.Abstractions\bin\Debug\netcoreapp3.1\OrchardCore.Liquid.Abstractions.deps.json
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore.Liquid.Abstractions\bin\Debug\netcoreapp3.1\OrchardCore.Liquid.Abstractions.dll
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore.Liquid.Abstractions\obj\Debug\netcoreapp3.1\OrchardCore.Liquid.Abstractions.csprojAssemblyReference.cache
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore.Liquid.Abstractions\obj\Debug\netcoreapp3.1\OrchardCore.Liquid.Abstractions.csproj.CoreCompileInputs.cache
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore.Liquid.Abstractions\obj\Debug\netcoreapp3.1\OrchardCore.Liquid.Abstractions.AssemblyInfoInputs.cache
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore.Liquid.Abstractions\obj\Debug\netcoreapp3.1\OrchardCore.Liquid.Abstractions.AssemblyInfo.cs
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore.Liquid.Abstractions\obj\Debug\netcoreapp3.1\OrchardCore.Liquid.Abstractions.dll

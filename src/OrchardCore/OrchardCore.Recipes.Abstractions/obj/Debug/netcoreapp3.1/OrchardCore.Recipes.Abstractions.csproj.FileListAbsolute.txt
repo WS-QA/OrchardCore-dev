@@ -1,0 +1,9 @@
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore.Recipes.Abstractions\bin\Debug\netcoreapp3.1\OrchardCore.Recipes.Abstractions.deps.json
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore.Recipes.Abstractions\bin\Debug\netcoreapp3.1\OrchardCore.Recipes.Abstractions.dll
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore.Recipes.Abstractions\bin\Debug\netcoreapp3.1\OrchardCore.Data.Abstractions.dll
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore.Recipes.Abstractions\obj\Debug\netcoreapp3.1\OrchardCore.Recipes.Abstractions.csprojAssemblyReference.cache
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore.Recipes.Abstractions\obj\Debug\netcoreapp3.1\OrchardCore.Recipes.Abstractions.csproj.CoreCompileInputs.cache
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore.Recipes.Abstractions\obj\Debug\netcoreapp3.1\OrchardCore.Recipes.Abstractions.AssemblyInfoInputs.cache
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore.Recipes.Abstractions\obj\Debug\netcoreapp3.1\OrchardCore.Recipes.Abstractions.AssemblyInfo.cs
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore.Recipes.Abstractions\obj\Debug\netcoreapp3.1\OrchardCore.Recipes.Abstractions.csproj.CopyComplete
+C:\EUA\C_sharp_big\OrchardCore-dev\src\OrchardCore\OrchardCore.Recipes.Abstractions\obj\Debug\netcoreapp3.1\OrchardCore.Recipes.Abstractions.dll

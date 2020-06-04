@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "szgJmnV6khdsk9mRKI1mYKHwdgxiTJYtyTV7G04MiiQfpGYwGWdvpbZkUQfKsljw80LCn4a7RV2j4uPn1sne/A==",
+  "success": true,
+  "projectFilePath": "C:\\EUA\\C_sharp_big\\OrchardCore-dev\\src\\OrchardCore\\OrchardCore\\OrchardCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\InonBarnea\\.nuget\\packages\\ncrontab\\3.3.1\\ncrontab.3.3.1.nupkg.sha512",
+    "C:\\Users\\InonBarnea\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\InonBarnea\\.nuget\\packages\\nodatime\\2.4.8\\nodatime.2.4.8.nupkg.sha512"
+  ],
+  "logs": []
+}
